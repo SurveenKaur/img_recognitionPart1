@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(255, 148, 214);
+    color:aliceblue;
+}
+b{
+    color: yellow;
+    font-size: 20px;
+    font-family:  'Gill Sans MT';
+}
+
+#camera { 
+    border: 2px dashed black;
+     width: 350px;
+      height: 300px;
+     } 
+     .name_of_objects, #result_object_name , #result_object_accuracy 
+     { 
+         color: yellow; 
+    }
